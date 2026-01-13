@@ -1,0 +1,16 @@
+# Android Studio (root-level)
+*.iml
+.gradle
+/local.properties
+
+# Android Studio (project-level)
+MyApplication/.idea/
+MyApplication/.gradle/
+MyApplication/build/
+
+# Native build
+MyApplication/.cxx/
+
+# Other
+/captures
+.externalNativeBuild
